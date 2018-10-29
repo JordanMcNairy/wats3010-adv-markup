@@ -1,1 +1,62 @@
 /* Styles for the Advanced Markup assignment. */
+/* side styles */
+dt{
+    font-weight: 900;
+}
+
+.bio-photo {
+    
+    width: 25%;
+    float: top;
+    background: #cccccc;
+    width: 100%;
+    margin: 10px;
+    padding: 5px;
+    }
+
+.biophoto img {
+    width: 100%;
+    height: auto;
+    
+}
+
+
+
+/* side styles */
+
+#sidebar {
+    float: right;
+    width: 25%;
+    background: pink;
+    margin: 20px;
+    padding: 10px;
+    
+    
+}
+
+
+
+/* nav styles */
+
+
+nav ul li {
+    display: inline; 
+    border: solid 1px black;
+    padding: 5px; 
+    
+}
+
+.active {
+    font-weight: 900;
+    background: #cccccc;
+    padding: 5px;
+    }
+    
+/* table styles */
+    
+table {
+    
+    width: 100%;
+    text-align: left
+    
+}
